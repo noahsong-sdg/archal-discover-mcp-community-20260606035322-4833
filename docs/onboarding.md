@@ -1,0 +1,3 @@
+# Onboarding
+
+Welcome contributors.
